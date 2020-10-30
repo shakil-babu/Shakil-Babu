@@ -1,4 +1,4 @@
-# Hey dudu 👋, I am Shakil Babu😊.
+# Hey dude 👋, I am Shakil Babu😊.
 ## I am a Learner, Developer and also Programmer.
 ![I am a Learner, Developer and also Programmer.](https://github.com/Shakil-Babu/img/blob/master/Untitled%20Design.jpg)
 
@@ -27,20 +27,20 @@
 
 <br/>
 <br/>
-### Connect With Me... <br>
-- Github: (https://github.com/Shakil-Babu)
-- Website: (https://www.shakilbabu.xyz)
+## Connect With Me... <br>
+- Github: (https://github.com/Shakil-Babu) <br/>
+- Website: (https://www.shakilbabu.xyz)<br/>
 - Facebook: (https://www.facebook.com/profile.php?id=100025305922873)
 
 
 
 <br/>
-### Other Contributions
+## Other Contributions
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shakil-Babu)  
 
 ![Profile views](https://gpvc.arturio.dev/Shakil-Babu)  
 
-### Statistics 
+## Statistics 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shakil-Babu&theme=highcontrast&show_icons=true)
 
