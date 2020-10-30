@@ -10,7 +10,7 @@ A Passionate learner and also Student. Still studying at (VTTI,Bogura, Banglades
 - ⚡ Fun fact: Joker  , Talkative . 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shakil-Babu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Shakil Babu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.shakilbabu.xyz)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shakil-Babu) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.shakilbabu.xyz)  
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shakil-Babu&theme=highcontrast&show_icons=true)
