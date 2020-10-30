@@ -19,7 +19,8 @@
 
 ### Skills on Languages and Tools:
 - Programming Languages : JavaScript , Python , PHP ;
-- Markup and Style : <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[HTML5].svg" />, CSS ;
+- Markup and Style :<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[HTML5].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/[HTML5].svg" />, CSS ;
 - Framework and Library : Bootstrap , Materialize.css , W3.css , React.js, Jquery;
 - Code Editor : Vs Code , Atom , Sublime ;
 - Other Tools : NPM , Yarn , Git , Github , Webpack ; 
