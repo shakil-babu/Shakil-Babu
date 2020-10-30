@@ -27,18 +27,18 @@
 
 <br/>
 <br/>
-## Connect With Me... <br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shakil-Babu)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.shakilbabu.xyz)
+### Connect With Me... <br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shakil-Babu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Shakil_Babu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](shakilbabu.xyz)  
+
 
 
 <br/>
-## Other 
+### Other Contributions
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shakil-Babu)  
 
 ![Profile views](https://gpvc.arturio.dev/Shakil-Babu)  
 
-
+### Statistics 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shakil-Babu&theme=highcontrast&show_icons=true)
 
