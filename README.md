@@ -1,8 +1,8 @@
-### Hi there 👋, I am Shakil Babu.
-#### I am a Learner, Developer and also Programmer.
+# Hi there 👋, I am Shakil Babu.
+# I am a Learner, Developer and also Programmer.
 ![I am a Learner, Developer and also Programmer.](https://github.com/Shakil-Babu/img/blob/master/Untitled%20Design.jpg)
 
-A Passionate learner and also Student. Still studying at (VTTI,Bogura, Bangladesh).
+##A Passionate learner and also Student. Still studying at (VTTI,Bogura, Bangladesh).
 
 - 🔭 I’m currently working on e-commerce Project. 
 - 🌱 I’m currently learning React.js and advanced JavaScript. 
@@ -10,6 +10,7 @@ A Passionate learner and also Student. Still studying at (VTTI,Bogura, Banglades
 - ⚡ Fun fact: Joker  , Talkative . 
 
 
+##Connect With Me...
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shakil-Babu) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.shakilbabu.xyz)  
 
 
