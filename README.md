@@ -31,7 +31,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shakil-Babu)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.shakilbabu.xyz)  
 
-<br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shakil-Babu&theme=highcontrast&show_icons=true)
 
