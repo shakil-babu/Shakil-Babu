@@ -19,7 +19,7 @@
 
 ### Skills on Languages and Tools:
 - Programming Languages : JavaScript , Python , PHP ;
-- Markup and Style : HTML, CSS ;
+- Markup and Style : <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[HTML5].svg" />, CSS ;
 - Framework and Library : Bootstrap , Materialize.css , W3.css , React.js, Jquery;
 - Code Editor : Vs Code , Atom , Sublime ;
 - Other Tools : NPM , Yarn , Git , Github , Webpack ; 
@@ -36,6 +36,8 @@
 - Facebook: (https://www.facebook.com/profile.php?id=100025305922873)
 <br/>
 <br/>
+
+
 ## Other Contributions
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shakil-Babu)  
