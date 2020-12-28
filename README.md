@@ -1,6 +1,6 @@
 # Hey dude 👋, I am Shakil Babu😊.
 ## I am a Learner, Developer and also Programmer.
-![I am a Learner, Developer and also Programmer.]https://i.ibb.co/vvwYzrn/shakil.jpg)
+![I am a Learner, Developer and also Programmer.](https://i.ibb.co/vvwYzrn/shakil.jpg)
 
 <br/><br/>
 
