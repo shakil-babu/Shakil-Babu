@@ -29,6 +29,7 @@
 <br/>
 
 ### Poke me: 🥰
+
 <br/>
 
 <a href="https://www.linkedin.com/in/shakil-babu-b1a144211/">
@@ -42,15 +43,18 @@
 </a>
 
 <br/>
+<br/>
 
 ### Other Contributions : 🥰
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shakil-Babu)  
 
-![Profile views](https://gpvc.arturio.dev/Shakil-Babu)  
 
 ### Statistics : 🙂
+
 ![Babu's github stats](https://github-readme-stats.vercel.app/api?username=Shakil-Babu&theme=highcontrast&show_icons=true)
+
+### Snake animate : 🙂
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
