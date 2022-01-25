@@ -37,10 +37,9 @@
 <a href="https://github.com/shakil-babu">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-
-<!-- [<img align="left" alt="#" width="40px" src="https://image.flaticon.com/icons/png/512/725/725289.png" />][facebook]
-[![image](https://www.facebook.com/profile.php?id=100025305922873)][facebook]
-<br/>
+<a href="https://www.facebook.com/profile.php?id=100025305922873">
+  <img align="left" alt="akd's Github" width="100px" src="https://image.flaticon.com/icons/png/512/725/725289.png" />
+</a>
 
 
 ## Other Contributions
