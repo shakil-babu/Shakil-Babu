@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/F5KKnxN/shakilbabu-intro-1-1.png" width="1280" title="Readme Banner">
 </p>
 
-<br/><br/>
+<br/>
 
 ### Love to learn and explore new technologies.
 <img align="right" alt="GIF" width="250px" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" />
@@ -27,10 +27,8 @@
 }
 ```
 <br/>
-<br/>
 
 ### Poke me: 🥰
-
 <br/>
 
 <a href="https://www.linkedin.com/in/shakil-babu-b1a144211/">
@@ -39,6 +37,9 @@
 <a href="https://github.com/shakil-babu">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
+
+<!-- [<img align="left" alt="#" width="40px" src="https://image.flaticon.com/icons/png/512/725/725289.png" />][facebook]
+[![image](https://www.facebook.com/profile.php?id=100025305922873)][facebook]
 <br/>
 
 
