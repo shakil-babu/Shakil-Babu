@@ -1,6 +1,6 @@
-# Hey dude 👋, I am Shakil Babu😊.
-## JavaScript developer || MERN stack developer.
-![Love to learn and explore new things.](https://i.ibb.co/vvwYzrn/shakil.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/F5KKnxN/shakilbabu-intro-1-1.png" width="1280" title="Readme Banner">
+</p>
 
 <br/><br/>
 
