@@ -5,32 +5,43 @@
 <br/><br/>
 
 ### Love to learn and explore new technologies.
+<img align="right" alt="GIF" width="250px" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" />
+
+- 🔭 **Currently working on:** *Deep dive into frontend.*.
+- 📖 __Currently learning:__ Algorithms and DS.
+- 🤔 __Exploring:__ Python
+- 🥅 __Goal:__ being a Js Developer 💙 
+- ⚡ __Fun fact:__ Joker 😎
+
 <br/>
 
-- 🔭 I’m currently working on MERN Stack project.
-- 🌱 I’m currently learning TypeScript and Node.js. 
-- 🥅 __Goal:__ JavaScript Engineer💙.
-- ⚡ Fun fact: Joker  , Talkative . 
+### Languages and Tools:🥱
 
-<br/>
-
-### Skills on Languages and Tools:
-- Languages : JavaScript , HTML , CSS, TypeScript and C++  ;
-- Technologies: Bootstrap , Materialize.css ,jquery, material ui, React.js, node.js , express.js;
-- Database : MongoDB, MySQL
-- Other: Api design, database integration, project testing.
-
-
+```json
+{
+    "languages" : ["JavaScript","C++","Python"],
+    "backend" : ["NodeJS, Express.js"],
+    "frontend" : ["HTML, CSS, React.js, Next.js, Graphql(client)"],
+    "database" : ["MySQL","MongoDB"],
+    "others" : ["npm","yarn","Git"]
+}
+```
 <br/>
 <br/>
 
 ## Connect With Me
 
 <br/>
-- Github: (https://github.com/Shakil-Babu) <br/>
-- Linkedin: (https://www.linkedin.com/in/shakil-babu-b1a144211/)<br/>
-- Facebook: (https://www.facebook.com/profile.php?id=100025305922873)
-<br/>
+
+<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/amandewatnitrr">
+  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/akd_beast_slayer/">
+  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 <br/>
 
 
