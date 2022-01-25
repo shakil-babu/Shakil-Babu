@@ -9,17 +9,17 @@
 
 - 🔭 **Currently working on:** *Deep dive into frontend.*.
 - 📖 __Currently learning:__ Algorithms and DS.
-- 🤔 __Exploring:__ Python
+- 😘 __Exploring:__ Python
 - 🥅 __Goal:__ being a Js Developer 💙 
 - ⚡ __Fun fact:__ Joker 😎
 
 <br/>
 
-### Languages and Tools:🥱
+### Languages and Tools: 😍
 
 ```json
 {
-    "languages" : ["JavaScript","C++","Python"],
+    "languages" : ["C++","Python","JavaScript","TypeScript"],
     "backend" : ["NodeJS, Express.js"],
     "frontend" : ["HTML, CSS, React.js, Next.js, Graphql(client)"],
     "database" : ["MySQL","MongoDB"],
@@ -29,18 +29,15 @@
 <br/>
 <br/>
 
-## Connect With Me
+### Poke me: 🥰
 
 <br/>
 
-<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
+<a href="https://www.linkedin.com/in/shakil-babu-b1a144211/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/amandewatnitrr">
+<a href="https://github.com/shakil-babu">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/akd_beast_slayer/">
-  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <br/>
 
