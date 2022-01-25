@@ -32,22 +32,25 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/shakil-babu-b1a144211/">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <img align="left" alt="Babu's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/shakil-babu">
-  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img align="left" alt="Babu's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100025305922873">
-  <img align="left" alt="akd's Github" width="100px" src="https://image.flaticon.com/icons/png/512/725/725289.png" />
+  <img align="left" alt="Babu's Facebook" width="30px" src="https://image.flaticon.com/icons/png/512/725/725289.png" />
 </a>
 
+<br/>
 
-## Other Contributions
+### Other Contributions : 🥰
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shakil-Babu)  
 
 ![Profile views](https://gpvc.arturio.dev/Shakil-Babu)  
 
-## Statistics 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shakil-Babu&theme=highcontrast&show_icons=true)
+### Statistics : 🙂
+![Babu's github stats](https://github-readme-stats.vercel.app/api?username=Shakil-Babu&theme=highcontrast&show_icons=true)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
